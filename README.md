@@ -1,7 +1,7 @@
 # Mahabharata-Data-Mining-Project
 # README (CS685A)
 ## Group - 22
-
+### Title:Auto-Complete and Auto-Suggestion Portal for EPICS
 ### Environment setup
 
 Create a new virtual environment and install all the dependencies mentioned in requirements.txt.
