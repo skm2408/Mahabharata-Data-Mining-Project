@@ -1,4 +1,4 @@
-# Mahabharata-Data-Mining-Project
+# Data-Mining-Project
 # README (CS685A)
 ## Group - 22
 ### Title:Auto-Complete and Auto-Suggestion Portal for EPICS
